@@ -7,6 +7,8 @@ In this project, you'll create visualizations to reveal insights from a data set
 US Census Demographic Data
 This data comes from a Kaggle dataset, it includes the census data for all counties in 2015. You can find the dataset in supporting materials at the bottom of this page. Required dashboards
 
+https://www.kaggle.com/muonneutrino/us-census-demographic-data/data
+
 You are required to create three visualizations. Some questions you may attempt to answer include those pertaining to the following areas:
 
 1) Which states have the best transportation?
